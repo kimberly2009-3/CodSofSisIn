@@ -1,6 +1,6 @@
 #kimberly cherlyn garcia castro
 #2-j
-#practica 9
+#nombre de la practica :operaciones  con cadenas.
 #25/02/2025
 
 
